@@ -8,7 +8,7 @@ Run the python file by giving the following command in the folder where the file
 
 Also, checkout the empathy_prediction.ipynb file for details on the project.
 
-References:<br><br>
-https://machinelearningmastery.com/an-introduction-to-feature-selection/ <br><br>
+References:<br>
+https://machinelearningmastery.com/an-introduction-to-feature-selection/ <br>
 https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
 
